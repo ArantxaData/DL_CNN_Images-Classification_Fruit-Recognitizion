@@ -1,4 +1,4 @@
-# DL_CNN_Images-Classification_Fruit-Recognitizion
+# DL_CNN_Images-Classification_Fruit-Recognition
 Convolutional neural network for classifying fruits
 This kernel tries to compare several methods for performing a classification of fruits images.
 There are theee approaches considered:
